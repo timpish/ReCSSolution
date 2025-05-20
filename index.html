@@ -136,11 +136,12 @@
 
         :where(td, th) {
             border-bottom: 1px solid var(--fg-3-7);
+            font-variant-numeric: tabular-nums lining-nums slashed-zero;
             padding-block: var(--space-3);
             padding-inline: var(--space-1-2);
             vertical-align: baseline;
         }
-
+        
         /* Row hover effect */
         tbody tr {
             transition: background-color 420ms var(--ease-in-out-circular);
