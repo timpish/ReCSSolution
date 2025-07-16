@@ -1,5 +1,5 @@
 # ReCSSolution
 
-Poly-unit viewport ruler
+Polyunit viewport ruler
 
 [recssolution.timpish.com](https://recssolution.timpish.com)
